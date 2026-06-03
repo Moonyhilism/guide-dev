@@ -6,4 +6,3 @@ Ce projet contient des ressources utiles pour les nouveaux développeurs.
 KARDJO Antoine
 
 ## Auteur
-BELMEDDAH Amir
